@@ -94,6 +94,7 @@ transform: rotate(var(--rotation));
     .clock{
         width:250px;
         height:250px;
+        border:10px;
     }
     .number{
         font-size:1.2rem;
